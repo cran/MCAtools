@@ -1,0 +1,38 @@
+Package: MCAtools
+Type: Package
+Title: Multiple Correspondence Analysis Toolkit (Phi-Divergence
+        Framework)
+Version: 1.0.0
+Authors@R: c(person(given = "Awa", family = "Traoré", role = "aut"),
+             person(given = c("Assi","Lazare"), family = "N'GUESSAN", role = "aut"),
+             person(given = c("MOUSSA", "Kouamé"), family = "Richard", role = "aut"),
+             person(given = c("Nona", "Servais"), family = c("KAMDEM","SIMO"),
+                    role = c("aut", "cre"), email = "nona.kamdem@gmail.com"),
+             person(given = c("Muhamad", "Setyawan"), family = "Bahari", role = "aut"))
+Description: A toolkit for performing Multiple Correspondence Analysis 
+    (MCA) based on the phi-divergence framework of Cressie and Read 
+    (1984) <doi:10.1111/j.2517-6161.1984.tb01318.x>. Provides 
+    implementations for MCA computation mca_analysis(), visualization 
+    plot_mca(), and symbolic equation generation 
+    generate_mca_equation(), designed for interpretability, 
+    flexibility, and analytical consistency with generalized 
+    divergence measures.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.1.0)
+Imports: stats, graphics, utils
+Suggests: FactoMineR, ggplot2, dplyr
+URL: https://github.com/nskamdem/MCAtools
+BugReports: https://github.com/nskamdem/MCAtools/issues
+Config/roxygen2/version: 8.1.0
+NeedsCompilation: no
+Packaged: 2026-09-30 22:14:53 UTC; MSI
+Author: Awa Traoré [aut],
+  Assi Lazare N'GUESSAN [aut],
+  MOUSSA Kouamé Richard [aut],
+  Nona Servais KAMDEM SIMO [aut, cre],
+  Muhamad Setyawan Bahari [aut]
+Maintainer: Nona Servais KAMDEM SIMO <nona.kamdem@gmail.com>
+Repository: CRAN
+Date/Publication: 2026-10-10 11:40:02 UTC

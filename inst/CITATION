@@ -1,0 +1,41 @@
+citHeader("To cite MCAtools in publications use:")
+
+bibentry(
+  bibtype  = "Manual",
+  title    = "MCAtools: Multiple Correspondence Analysis Toolkit (Phi-Divergence Framework)",
+  author   = c(
+    person(given = "Awa", family = "Traoré"),
+    person(given = c("Assi","Lazare"), family = "N'GUESSAN"),
+    person(given = c("MOUSSA", "Kouamé"), family = "Richard"),
+    person(given = c("Nona", "Servais", "KAMDEM"), family = "SIMO"),
+    person(given = c("Muhamad", "Setyawan"), family = "Bahari")
+  ),
+  year     = "2026",
+  note     = "R package version 1.0.0",
+  url      = "https://github.com/nskamdem/MCAtools",
+  textVersion = paste(
+    "Traore, A., Assi Lazare N'GUESSAN, Moussa Kouamé R., KAMDEM SIMO, N. S., & Bahari, M. S. (2026).",
+    "MCAtools: Multiple Correspondence Analysis Toolkit (Phi-Divergence Framework).",
+    "R package version 1.0.0. https://github.com/nskamdem/MCAtools"
+  )
+)
+
+bibentry(
+  bibtype  = "Article",
+  title    = "Goodness-of-Fit Statistics for Discrete Multivariate Data",
+  author   = c(
+    person(given = "N. A.", family = "Cressie"),
+    person(given = "T. R. C.", family = "Read")
+  ),
+  journal  = "Journal of the Royal Statistical Society, Series B (Methodological)",
+  year     = "1984",
+  volume   = "46",
+  number   = "3",
+  pages    = "440-464",
+  doi      = "10.1111/j.2517-6161.1984.tb01318.x",
+  textVersion = paste(
+    "Cressie, N. A., & Read, T. R. C. (1984).",
+    "Goodness-of-Fit Statistics for Discrete Multivariate Data.",
+    "Journal of the Royal Statistical Society. Series B (Methodological), 46(3), 440-464."
+  )
+)

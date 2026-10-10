@@ -1,0 +1,7 @@
+export(mca_analysis)
+export(plot_mca)
+export(generate_mca_equation)
+
+importFrom(stats, pchisq, cor)
+importFrom(graphics, plot, text, points, title, abline, par, legend)
+importFrom(utils, data, head)

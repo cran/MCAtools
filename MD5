@@ -1,0 +1,12 @@
+c1c59bc79673014a689518c2d9f7d164 *DESCRIPTION
+3054648f90782fb485f06c60c998250d *NAMESPACE
+b9c9964160f5579850132d9e0bcf52b5 *R/generate_mca_equation.R
+c6659644955d82d7e299bce346725742 *R/mca_analysis.R
+0000817ff0690ec67ab4202b5f014a85 *R/plot_mca.R
+fc2e5a9e009edcbe99b63105bc4af209 *README.md
+637adfcc19eba6c210a3aace081e958c *data/electricity_africa.rda
+c98b81aa10bb88be4941dc291f251f4a *inst/CITATION
+5498d1c5074f9429cb3fdb4e802d47a8 *man/electricity_africa.Rd
+5144e11da77055bc1e8089fb65aa10ef *man/generate_mca_equation.Rd
+dc758d81395ea2d31284891677ce8d65 *man/mca_analysis.Rd
+8f680159f69efbab5ac3b582ef33b1c3 *man/plot_mca.Rd
